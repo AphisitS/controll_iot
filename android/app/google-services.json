@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133904705685",
+    "firebase_url": "https://contollmyhome-default-rtdb.firebaseio.com",
+    "project_id": "contollmyhome",
+    "storage_bucket": "contollmyhome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133904705685:android:6154fe369f0552f367539c",
+        "android_client_info": {
+          "package_name": "com.example.controll_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133904705685-cn5gdsrevffio7b2ls3bmtu4ipafkfce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAfaM7zqR_Tmu6uo4P6suHhYkwftSfxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133904705685-cn5gdsrevffio7b2ls3bmtu4ipafkfce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
